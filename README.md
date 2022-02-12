@@ -21,9 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ----
-Credit: [sharannyobasu](https://github.com/sharannyobasu)
 
-Last Edited on: 23/09/2020
 ------
 Credit: [arundhathi](https://github.com/arundhathi6)
 Last Edited on: 12/2/2022
