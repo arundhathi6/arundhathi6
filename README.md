@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Arundhathi R menom
+### Hi there 👋 I'm Arundhathi R menon
 
 
   
