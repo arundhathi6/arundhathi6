@@ -9,6 +9,8 @@
 <div>
 <strong>About Me:</strong><br>
 💻 I am a creative and innovative software developer strong in design and I always learn and explor new technologies<br>
+  ![image](https://user-images.githubusercontent.com/43034600/153705904-b4a18825-77b8-48b7-b94d-fa6984336a56.png)
+  :zap: Fun fact: I :sparkling_heart: to code 24x7.
 📚 I am currently React and Redux.<br>
 📈 Until you Spread your wings, You'll never know of how far you can fly.<br>
 🏆 My certifications: 
