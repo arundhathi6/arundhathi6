@@ -14,7 +14,7 @@
 - 💬 Ask me about <strong>Data Structures Algorithm, Html ,CSS, JavaScript, React, Redux, MongoDB, Express, NodeJS</strong>
 - ⚡ Fun fact: A girl who also loves martial arts.
 
-### Tech-stacks I work upon : 🛠
+### Tech-stacks and Tools I work upon : 🛠
 	 
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=whi 3 te">  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB"><img src="http://img.shields.io/badge/-Express.js%20-green?style=for-the-badge&logo=Express.js&logoColor=white"><img src="http://img.shields.io/badge/-Node.js%20-white?style=for-the-badge&logo=Node.js&logoColor=green"> <img src="http://img.shields.io/badge/-Mongodb%20-%23323330.svg?style=for-the-badge&logo=Mongodb&logoColor=green"><img src="https://img.shields.io/badge/github%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 
