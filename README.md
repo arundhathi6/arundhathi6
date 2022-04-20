@@ -26,6 +26,7 @@
 ## By the way here are some of my statistics 🚀
 ![Arundhathi's github stats](https://github-readme-stats.vercel.app/api?username=arundhathi6&show_icons=true&theme=tokyonight)
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arundhathi6&theme=tokyonight" alt="mystreak"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=arundhathi6&show_icons=true&theme=tokyonight" alt="mystreak"/>
 ![Arundhathi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arundhathi6&theme=tokyonight&layout=compact)
 
 <br>
