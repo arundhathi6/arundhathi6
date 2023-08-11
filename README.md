@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Arundhathi R Menon
+### Hi👋 I'm Arundhathi Menon
 
 
   
@@ -13,6 +13,7 @@
 - 🌱 I’m currently working on <strong>Projects</strong>
 - 💬 Ask me about <strong>Data Structures Algorithm, Html ,CSS, JavaScript, React, Redux, MongoDB, Express, NodeJS</strong>
 - ⚡ Fun fact: A girl who also loves martial arts.
+- ⚡ Wanna know more about me? then here is my portfolio: A girl who also loves martial arts.
 
 ### Tech-stacks and Tools I work upon : 🛠
 	 
