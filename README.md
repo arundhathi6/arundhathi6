@@ -9,7 +9,7 @@
 ### About me: 
 
 
-- 🔍 I’m looking forward to kickstarting my career as a <strong>software engineer</strong> with a firm driven by technology 
+- 🔍 I’m a Full stack web developer.
 - 🌱 I’m currently working on <strong>Projects</strong>
 - 💬 Ask me about <strong>Data Structures Algorithm, Html ,CSS, JavaScript, React, Redux, MongoDB, Express, NodeJS</strong>
 - ⚡ Fun fact: A girl who also loves martial arts.
