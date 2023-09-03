@@ -32,7 +32,6 @@
 	
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=arundhathi6&show_icons=true&theme=tokyonight" alt="mystreak"/>
 
-	<hr/>	
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhathi6&theme=tokyonight&layout=compact" alt="mystreak"/>
 	
 </p>
