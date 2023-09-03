@@ -29,8 +29,13 @@
 <!-- ![Arundhathi's github stats](https://github-readme-stats.vercel.app/api?username=arundhathi6&show_icons=true&theme=tokyonight) -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arundhathi6&theme=tokyonight" alt="mystreak"/> -->
 <p align="centre">
+	<a>
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=arundhathi6&show_icons=true&theme=tokyonight" alt="mystreak"/>
+	</a>
+	<a>
+		
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhathi6&theme=tokyonight&layout=compact" alt="mystreak"/>
+	</a>
 </p>
 <!-- ![Arundhathi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arundhathi6&theme=tokyonight&layout=compact) -->
 
