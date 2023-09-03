@@ -13,6 +13,7 @@
 - 🌱 I’m currently working on <strong>Projects</strong>
 - 💬 Ask me about <strong>Data Structures Algorithm, Html ,CSS, JavaScript, React, Redux, MongoDB, Express, NodeJS</strong>
 - ⚡ Fun fact: A girl who also loves martial arts.
+- 📄 Know about my experiences [**Resume**](https://arundhathi-menon.vercel.app/assets/Arundhathi_Menon_resume-e5a9778b.pdf)
 - ⚡ Wanna know more about me ? then here is my portfolio: https://arundhathi-menon.vercel.app/
 
 ### Tech-stacks and Tools I work upon : 🛠
