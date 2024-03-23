@@ -11,7 +11,7 @@
 
 
 - 🔍 Full stack web developer.
-- 🌱 Currently working on <strong>Projects</strong>
+- 🌱 Currently working on <strong>GenAI</strong>
 - 💬 Ask me about <strong>Data Structures Algorithm, Html ,CSS, JavaScript, React, Redux, MongoDB, Express, NodeJS</strong>
 - ⚡ Fun fact: A girl who also loves martial arts, Dance, Enjoy listening music.
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1pckcrQeqh-E2C0QsSi4jryyNtGfgvBM7/view?usp=sharing)
