@@ -10,17 +10,17 @@
 ### About me: 
 
 
-- 🔍 Full stack web developer.
+- 🔍 Full stack Engineer.
 - 🌱 Currently working on <strong>GenAI</strong>
-- 💬 Ask me about <strong>Data Structures Algorithm, Html ,CSS, JavaScript, React, Redux, MongoDB, Express, NodeJS</strong>
-- ⚡ Fun fact: A girl who also loves martial arts, Dance, Enjoy listening music.
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1pckcrQeqh-E2C0QsSi4jryyNtGfgvBM7/view?usp=sharing)
-- ⚡ Wanna know more about me ? then here is my personal [**Portfolio**](https://arundhathi-menon.vercel.app/)
+- 💬 Ask me about <strong>Data Structures Algorithm, Html, CSS, JavaScript, TypeScript, React, NextJS, Redux, MongoDB, Express, NodeJS, Azure Bot Services</strong>
+- ⚡ Fun fact: A girl who also loves martial arts, Dance, and enjoys listening to music.
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1WPU_b5b0bKVftOxmF7wSlALLevFLdR7S/view?usp=sharing)
+- ⚡ Wanna know more about me? then here is my personal [**Portfolio**](https://arundhathi-menon.vercel.app/)
 
 
 ### Tech-stacks and Tools I work upon : 🛠
 	 
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-sandybrown?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/chakraui%20-mediumturquoise?&style=for-the-badge&logo=chakraui&logoColor=white"/><img src="https://img.shields.io/badge/materialui%20-dodgerblue?&style=for-the-badge&logo=materialui&logoColor=white"/> <img src="http://img.shields.io/badge/-Express.js%20-green?style=for-the-badge&logo=Express.js&logoColor=white"/> <img src="http://img.shields.io/badge/-Node.js%20-white?style=for-the-badge&logo=Node.js&logoColor=green"/>  <img src="http://img.shields.io/badge/-Mongodb%20-%23323330.svg?style=for-the-badge&logo=Mongodb&logoColor=green"> <img src="https://img.shields.io/badge/postman%20-orange?&style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-white?&style=for-the-badge&logo=github&logoColor=black"/>
+ <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-sandybrown?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-sandybrown?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/next%20-%2320232a.svg?&style=for-the-badge&logo=next&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/chakraui%20-mediumturquoise?&style=for-the-badge&logo=chakraui&logoColor=white"/><img src="https://img.shields.io/badge/materialui%20-dodgerblue?&style=for-the-badge&logo=materialui&logoColor=white"/> <img src="http://img.shields.io/badge/-Express.js%20-green?style=for-the-badge&logo=Express.js&logoColor=white"/> <img src="http://img.shields.io/badge/-Node.js%20-white?style=for-the-badge&logo=Node.js&logoColor=green"/>  <img src="http://img.shields.io/badge/-Mongodb%20-%23323330.svg?style=for-the-badge&logo=Mongodb&logoColor=green"> <img src="https://img.shields.io/badge/postman%20-orange?&style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-white?&style=for-the-badge&logo=github&logoColor=black"/>
  <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"/>
 
 
