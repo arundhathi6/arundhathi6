@@ -9,7 +9,7 @@
 - 🌱 Currently working on <strong>GenAI</strong>
 - 💬 Ask me about <strong>Data Structures Algorithm, Html, CSS, JavaScript, TypeScript, React, NextJS, Redux, MongoDB, Express, NodeJS, Azure Bot Services</strong>
 - ⚡ Fun fact: A girl who also loves martial arts, Dance, and enjoys listening to music.
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1WPU_b5b0bKVftOxmF7wSlALLevFLdR7S/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/18K__87zqOF9DvpUlml46RSat2-d-gfZl/view?usp=sharing)
 - ⚡ Wanna know more about me? then here is my personal [**Portfolio**](https://arundhathi-menon.vercel.app/)
 
 
